@@ -6,7 +6,7 @@
 
 :eyeglasses: **Arquirectura**
 
-:oncomming_automobile: **Fan de los todoterreno**
+:oncoming_automobile: **Fan de los todoterreno**
 
 :family: **creciendo en familia**
 
