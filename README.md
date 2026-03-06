@@ -1,9 +1,13 @@
 ## Hi there 👋
 
 :computer: **Contador Público**
+
 :pencil: **Desarrollador en HCX**
+
 :eyeglasses: **Arquirectura**
+
 :oncomming_automobile: **Fan de los todoterreno**
+
 :family: **creciendo en familia**
 
 ### Vías de contacto
