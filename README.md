@@ -2,7 +2,7 @@
 
 :computer: **Contador Público**
 
-:pencil: **Desarrollador en HCX**
+:pencil: **Desarrollador**
 
 :eyeglasses: **Arquirectura**
 
